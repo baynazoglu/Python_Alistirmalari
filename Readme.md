@@ -1,0 +1,1 @@
+This is a project that includes some Python Exercises in Turkish. 
